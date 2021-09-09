@@ -1,2 +1,4 @@
 this is sample file for the information.
 new file to add to the git hub.
+
+//added new line to the code
